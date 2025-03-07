@@ -39,7 +39,7 @@ The repository includes resources, materials, and assignments for the course:
 1. **Clone the Repository**: Download the materials by cloning the repository:
 
    ```bash
-   git clone https://github.com/simonpierreboucher/GSF6053.git
+   git clone https://github.com/simonpierreboucher0/GSF6053.git
    ```
 
 2. **Navigate the Content**: Access lecture notes, assignments, and datasets in the corresponding folders.
